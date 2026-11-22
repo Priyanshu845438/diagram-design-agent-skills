@@ -1,3 +1,5 @@
+> **Fork notice:** This is [Priyanshu Raj’s fork](https://github.com/Priyanshu845438/diagram-design-agent-skills) of [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design). Original authorship and official project releases belong to the upstream project. [More public projects](https://github.com/Priyanshu845438/Priyanshu845438/blob/main/PUBLIC-REPOSITORIES.md) · [Priyanshu’s profile](https://github.com/Priyanshu845438).
+
 <div align="center">
 
 <h1>
